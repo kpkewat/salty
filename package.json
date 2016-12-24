@@ -1,0 +1,26 @@
+{
+  "name": "salty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpkewat/salty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpkewat/salty/issues"
+  },
+  "homepage": "https://github.com/kpkewat/salty#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.17.2",
+    "mongoose": "^4.7.4"
+  }
+}
